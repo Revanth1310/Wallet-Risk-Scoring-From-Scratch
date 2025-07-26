@@ -1,4 +1,4 @@
-# 📘 Wallet Risk Scoring – README
+# 📘 Wallet Risk Scoring
 
 This project implements a DeFi wallet risk scoring model using publicly accessible wallet data from the Ethereum blockchain (via Covalent API). The goal is to assign a **risk score (0–1000)** to each wallet, reflecting its relative financial health and behavior.
 
