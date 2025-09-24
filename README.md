@@ -79,4 +79,4 @@ We assume responsible, risk-averse users tend to be more diversified, hold stabl
 ## 📁 Output
 
 * `compound_wallet_data.csv`: Token holdings & USD values
-* `wallet_scores.csv`: Final risk score per walletttoottoottr
+* `wallet_scores.csv`: Final risk score per wallet
